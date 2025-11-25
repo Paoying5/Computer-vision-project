@@ -35,8 +35,7 @@ As intelligent transportation systems and autonomous vehicles continue to grow, 
 
 👉 *Comparison of YOLOv8 with previous versions*
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0efdff9e-2cb1-467c-a1db-1d120b3044b1" />
-
+<img width="1135" height="443" alt="image" src="https://github.com/user-attachments/assets/478637fe-f400-422c-99ba-4065cb29d9d9" />
 
 
 ---
@@ -114,6 +113,7 @@ As intelligent transportation systems and autonomous vehicles continue to grow, 
 👉 *Final results after training*
 <img width="675" height="346" alt="image" src="https://github.com/user-attachments/assets/0a302ae0-088c-4ce1-8d15-5209ab4dd282" />
 
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0efdff9e-2cb1-467c-a1db-1d120b3044b1" />
 
 ---
 

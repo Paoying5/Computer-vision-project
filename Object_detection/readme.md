@@ -35,7 +35,8 @@ As intelligent transportation systems and autonomous vehicles continue to grow, 
 
 👉 *Comparison of YOLOv8 with previous versions*
 
-<img width="747" height="280" alt="image" src="https://github.com/user-attachments/assets/0e4681ba-6a94-4fd0-a6f1-610464c00ba8" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0efdff9e-2cb1-467c-a1db-1d120b3044b1" />
+
 
 
 ---
